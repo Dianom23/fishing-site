@@ -1,0 +1,17 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(https://avatars.mds.yandex.net/i?id=c809dac46921d1a2268896fc7142645c_l-5250851-images-thumbs&n=13);
+    background-position: center;
+    background-size: cover;
+}
+
+form{
+    background-color: burlywood;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
